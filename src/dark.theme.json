@@ -1,0 +1,36 @@
+{
+  "name": "DarkTheme",
+  "dark": true,
+  "author": "Eightpigs",
+  "ui": {
+    "*": {
+      "background": "#2D2D2D",
+      "foreground": "#DFDFDF",
+      "infoForeground": "#989898",
+      "selectionBackground": "#3D3D3D",
+      "selectionForeground": "#DFDFDF",
+      "selectionInactiveBackground": "#3A3A3A",
+      "selectionBackgroundInactive": "#3A3A3A",
+      "inactiveForeground": "#DFDFDF"
+    },
+    "Borders": {
+      "color": "#3D3D3D",
+      "ContrastBorderColor": "#3D3D3D"
+    },
+    "Editor": {
+      "background": "#2D2D2D",
+      "foreground": "#DFDFDF"
+    },
+    "ToolWindow": {
+      "Header": {
+        "background": "#1F1F1F",
+        "inactiveBackground": "#1F1F1F"
+      }
+    },
+    "Tree.rowHeight": 25,
+    "Label.foreground": "#DFDFDF",
+    "Label.background": "#2D2D2D",
+    "Panel.background": "#2D2D2D",
+    "Window.border": "1,1,1,1,3D3D3D"
+  }
+}
