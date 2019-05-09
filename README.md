@@ -2,8 +2,6 @@
 
 A dark theme for JetBrains IDEs.
 
-**Only theme, does not contain Color Scheme**
-
 ## Screenshots
 
 #### in MacOS

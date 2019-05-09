@@ -33,5 +33,6 @@
     "Label.background": "#2D2D2D",
     "Panel.background": "#2D2D2D",
     "Window.border": "0,0,0,0,3D3D3D"
-  }
+  },
+  "editorScheme": "/Hawaii.xml"
 }
