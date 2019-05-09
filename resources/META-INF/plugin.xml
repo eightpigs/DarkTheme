@@ -1,13 +1,18 @@
 <idea-plugin>
     <id>io.eightpigs.intellij.darktheme</id>
     <name>DarkTheme</name>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <vendor email="eightpigs@outlook.com" url="https://eightpigs.io">Eightpigs</vendor>
 
     <description><![CDATA[
     ]]></description>
 
-    <change-notes><![CDATA[ ]]> </change-notes>
+    <change-notes><![CDATA[
+        <h4>2019-05-09: 1.0.1</h4>
+        <ul>
+            <li>Adjust the border</li>
+        </ul>
+]]> </change-notes>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
     <idea-version since-build="173.0"/>
