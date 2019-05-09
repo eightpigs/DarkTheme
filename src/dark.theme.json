@@ -24,13 +24,14 @@
     "ToolWindow": {
       "Header": {
         "background": "#1F1F1F",
-        "inactiveBackground": "#1F1F1F"
+        "inactiveBackground": "#1F1F1F",
+        "borderColor": "#1F1F1F"
       }
     },
     "Tree.rowHeight": 25,
     "Label.foreground": "#DFDFDF",
     "Label.background": "#2D2D2D",
     "Panel.background": "#2D2D2D",
-    "Window.border": "1,1,1,1,3D3D3D"
+    "Window.border": "0,0,0,0,3D3D3D"
   }
 }
