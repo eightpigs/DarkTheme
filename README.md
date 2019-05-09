@@ -4,15 +4,8 @@ A dark theme for JetBrains IDEs.
 
 ## Screenshots
 
-#### in MacOS
-
-![in_i3wm](screenshots/in_macOS.png)
-
-#### in i3wm
-
-![in_i3wm](screenshots/in_i3wm_1.png)
-
-![in_i3wm](screenshots/in_i3wm_2.png)
+![in_MacOS](screenshots/in_macOS.png)
+![in_MacOS_Golang](screenshots/in_MacOS_golang.png)
 
 ## Usage
 
