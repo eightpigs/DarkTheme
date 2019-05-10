@@ -11,5 +11,6 @@ A dark theme for JetBrains IDEs.
 
 ## Usage
 
-1. Download [DarkTheme.jar](https://github.com/eightpigs/DarkTheme/releases)
-2. Install Plugin From Disk
+1. Intellij Version: >= 2019.1
+2. Download [DarkTheme.jar](https://github.com/eightpigs/DarkTheme/releases)
+3. Install Plugin From Disk
