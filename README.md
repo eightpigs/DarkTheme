@@ -1,5 +1,7 @@
 # DarkTheme
 
+![Icon](https://github.com/eightpigs/DarkTheme/blob/master/resources/META-INF/pluginIcon.svg)
+
 A dark theme for JetBrains IDEs.
 
 ## Screenshots
@@ -9,5 +11,5 @@ A dark theme for JetBrains IDEs.
 
 ## Usage
 
-1. Download [DarkTheme.jar](https://github.com/eightpigs/DarkTheme/releases/download/v0.1/DarkTheme.jar)
+1. Download [DarkTheme.jar](https://github.com/eightpigs/DarkTheme/releases)
 2. Install Plugin From Disk
