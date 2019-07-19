@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>io.eightpigs.intellij.darktheme</id>
     <name>DarkTheme</name>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <vendor email="eightpigs@outlook.com" url="https://eightpigs.io">Eightpigs</vendor>
 
     <description><![CDATA[
@@ -27,6 +27,10 @@
         <h4>2019-05-16: 1.0.2</h4>
         <ul>
             <li>add descriptions and upload to repo</li>
+        </ul>
+        <h4>2019-07-19: 1.0.3</h4>
+        <ul>
+            <li>Adjust the color</li>
         </ul>
 ]]> </change-notes>
 

@@ -54,7 +54,7 @@
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c"/>
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="171717"/>
         <option name="DOCUMENTATION_COLOR" value="333130"/>
-        <option name="FILESTATUS_ADDED" value="edbd44"/>
+        <option name="FILESTATUS_ADDED" value="539442"/>
         <option name="FILESTATUS_COPIED" value="659d9a"/>
         <option name="FILESTATUS_DELETED" value="f77669"/>
         <option name="FILESTATUS_HIJACKED" value="92d8e8"/>
@@ -80,8 +80,7 @@
         <option name="NOT_CHANGED" value="616161"/>
         <option name="NOTIFICATION_BACKGROUND" value="3d1a11"/>
         <option name="QUESTION_HINT" value="333130"/>
-        <option name="SELECTION_BACKGROUND" value="f75431"/>
-        <option name="SELECTION_FOREGROUND" value="ffffff"/>
+        <option name="SELECTION_BACKGROUND" value="444444"/>
         <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="333130"/>
         <option name="VCS_ANNOTATIONS_COLOR_3" value="616161"/>
