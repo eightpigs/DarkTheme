@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>io.eightpigs.intellij.darktheme</id>
     <name>DarkTheme</name>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <vendor email="eightpigs@outlook.com" url="https://eightpigs.io">Eightpigs</vendor>
 
     <description><![CDATA[
@@ -32,6 +32,11 @@
         <ul>
             <li>Adjust the color</li>
         </ul>
+        <h4>2019-07-30: 1.0.4</h4>
+        <ul>
+            <li>Adjust the selected background color</li>
+            <li>Compatible with all IntelliJ-based IDEs</li>
+        </ul>
 ]]> </change-notes>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
@@ -39,9 +44,8 @@
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
-    <!-- uncomment to enable plugin in all products
+    <!-- uncomment to enable plugin in all products -->
     <depends>com.intellij.modules.lang</depends>
-    -->
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="io.eightpigs.intellij.darktheme" path="/dark.theme.json"/>

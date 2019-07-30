@@ -4,3 +4,6 @@
 - add descriptions and upload to repo
 #### 2019-07-19 : v1.0.3
 - Adjust the color
+#### 2019-07-19 : v1.0.4
+- Adjust the selected background color
+- Compatible with all IntelliJ-based IDEs
